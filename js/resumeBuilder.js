@@ -1,1 +1,1 @@
-$("#main").append("Yoshikazu Sakai");
+$("#main").append(299792458/100/0.0000000001);
