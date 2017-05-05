@@ -1,1 +1,4 @@
-$("#main").append(299792458*100*0.000000001);
+var formattedName = HTMLheaderName.replace("%data%","Yoshikazu Sakai");
+var formattedRole = HTMLheaderRole.replace("%data%","Web Developer");
+$("#header").append(formattedName);
+$("#header").append(formattedRole);
